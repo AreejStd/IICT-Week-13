@@ -1,2 +1,2 @@
-This is a text file
-Testing for GIT
+This is a test file
+For GIT and GITHUB
